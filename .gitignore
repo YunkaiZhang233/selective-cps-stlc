@@ -28,6 +28,9 @@ setup.log
 # Local OPAM switch
 _opam/
 
+# dune OPAM file
+*.opam
+
 # Coq generated files
 *.vo
 *.vok
