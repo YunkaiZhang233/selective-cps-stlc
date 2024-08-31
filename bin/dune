@@ -1,4 +1,4 @@
 (executable
  (public_name selective_cps_stlc)
  (name main)
- (libraries selective_cps_stlc))
+ (libraries stlc_base))

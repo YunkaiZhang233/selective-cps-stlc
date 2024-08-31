@@ -1,2 +1,2 @@
 (library
- (name selective_cps_stlc))
+ (name stlc_base))

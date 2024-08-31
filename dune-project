@@ -7,9 +7,9 @@
 (source
  (github username/reponame))
 
-(authors "Author Name")
+(authors "Yunkai Zhang")
 
-(maintainers "Maintainer Name")
+(maintainers "Yunkai Zhang")
 
 (license LICENSE)
 
